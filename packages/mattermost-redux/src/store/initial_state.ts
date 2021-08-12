@@ -55,6 +55,7 @@ const state: GlobalState = {
             manuallyUnread: {},
             channelModerations: {},
             channelMemberCountsByGroup: {},
+            messageCounts: {},
         },
         posts: {
             expandedURLs: {},
